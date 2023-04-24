@@ -19,8 +19,8 @@ public class Que4 {
 	            }
 	        }
 	 
-	        System.out.println("The minimum array element is " + i);
-	        System.out.println("The maximum array element is " + j);
+	        System.out.println("The minimum array element is " + min);
+	        System.out.println("The maximum array element is " + max);
 	    }
 	 
 	    public static void main(String[] args)
